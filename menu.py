@@ -198,7 +198,7 @@ class Menu():
                 self.url.write(content2)
                 self.url.close()
         except Exception as e:
-            print(e)
+            #print(e)
             return
 
 
