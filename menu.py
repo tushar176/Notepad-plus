@@ -181,7 +181,7 @@ class Menu():
             return
         except:
             return
-
+        self.root.title(os.path.basename(self.url))
 
     def save_file(self, event=None):
         try:
