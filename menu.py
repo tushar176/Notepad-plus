@@ -13,6 +13,8 @@ class Menu():
         # Menu configuration
         self.menu = tk.Menu(self.root)
         self.root.configure(menu=self.menu)
+        
+        self.url = '' #later used in functionality like save, save as,new file etc.
 
 #-------------------------------------------------ICONS---------------------------------------------------------------
 
