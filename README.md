@@ -1,7 +1,7 @@
 # Notepad+
 It is a text editor written in python using Tkinter GUI interface.It is like other text editors with some additional features.
 
-![Notepad+ image](image1.png)
+<img src="image1.png" alt="Notepad+" width="400" height="350" />
 
 ## Basic Features:
 - File Menu
@@ -30,11 +30,11 @@ All the basic Features can also be called through shortcuts.
 - **Statusbar(show number of lines,charachters,words)**
 - **Linebar(Show number of lines)**
 
-![Darkmode image](darkmode.png)
+<img src="darkmode.png" alt="Darkmode" width="400" height="350" />
 
 - User can also checkout or checkin in the view menu to hide or to show any of the bar like toolbar,Line number bar,Statusbar.
 
-![Hidden toolbar image image](hide_toolbar.png)
+<img src="hide_toolbar.png" alt="Toolbar Hidden" width="400" height="350" />
 
 **Suggestions are most welcomed.**
 
