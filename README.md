@@ -23,6 +23,7 @@ All the basic Features can also be called through shortcuts.
 - **Various Color Themes**
 - **Different font types**
 - **Different font Sizes**
+- **Various font Colours**
 - **Bold Text**
 - **Italic Text**
 - **Underline text**
