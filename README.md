@@ -36,6 +36,12 @@ All the basic Features can also be called through shortcuts.
 
 <img src="hide_toolbar.png" alt="Toolbar Hidden" width="400" height="350" />
 
+# Demo
+![demo of the project](demo.gif)
+
 **Suggestions are most welcomed.**
 
+**Give a ⭐ if you like it or if this repository helped you in any way.**
+
 **Thank You..**
+ 
